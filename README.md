@@ -98,6 +98,8 @@ ii).studetails.html
 ```
 Run the Development Server:
 ```
+![Screenshot (420)](https://github.com/yuvarajan-88/creo_project/assets/174254156/0739e0e5-665e-4646-92ca-670304bcc1ce)
+![Screenshot (421)](https://github.com/yuvarajan-88/creo_project/assets/174254156/1b88d921-bf46-4c2a-a667-73dbde3d6e64)
 
 # Admin Interface
 The Django admin interface allows you to manage and administer your project's data models (e.g., Student model) via a user-friendly interface.
@@ -109,15 +111,21 @@ Open your web browser and go to http://127.0.0.1:8000/admin/.
 
 ### 2.Log In:
 
-Use your admin credentials (superuser credentials created during python manage.py createsuperuser) to log in.
+Use your admin credentials (superuser credentials created during python manage.py createsuperuser) to log in.<br>
+### Username: username
+### password: creodjango
 
+![Screenshot (422)](https://github.com/yuvarajan-88/creo_project/assets/174254156/e92472f1-7555-443b-944b-d1630f6a9c7c)
+![Screenshot (423)](https://github.com/yuvarajan-88/creo_project/assets/174254156/bb667899-798c-4989-b0a5-2bfd13b93798)
+![Screenshot (424)](https://github.com/yuvarajan-88/creo_project/assets/174254156/677cd82c-3edd-484b-a62f-446fa09e4851)
 ### 3.Manage Students:
 
 Add, edit, or delete students and their details through the provided admin interface.
 
 # Student Pages
 Student pages in your Django project are accessed through defined URLs and views. These pages typically display student details based on the student's ID (pk).
-
+![Screenshot (425)](https://github.com/yuvarajan-88/creo_project/assets/174254156/2fef2306-6714-4fee-adbc-778df25940f6)
+![Screenshot (426)](https://github.com/yuvarajan-88/creo_project/assets/174254156/92880666-6d3e-4b95-ab50-6bfb097757c2)
 ### Navigate to students:<br>
 http://127.0.0.1:8000/student/1/<br>
 http://127.0.0.1:8000/student/2/<br>
@@ -125,8 +133,8 @@ http://127.0.0.1:8000/student/3/<br>
 http://127.0.0.1:8000/student/4/<br>
 http://127.0.0.1:8000/student/5/<br>
 
-
-
+# Conclusion:
+Django project for student management system is built and executed successfully.
 
 
 
