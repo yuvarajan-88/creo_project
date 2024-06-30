@@ -118,6 +118,7 @@ Open your web browser and go to http://127.0.0.1:8000/admin/.
 ### 2.Log In:
 
 Use your admin credentials (superuser credentials created during python manage.py createsuperuser) to log in.<br>
+![Screenshot (427)](https://github.com/yuvarajan-88/creo_project/assets/174254156/2b087bcb-4c9f-4261-a7b9-492225f1d584)
 ### Username: username
 ### password: creodjango
 
